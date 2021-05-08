@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # Basics 
+=======
+>>>>>>> c649938403ef37e25c03acd5d28caf7c3216f924
 ## Print the R version
 my_version <- print(R.version.string)
 # R version 3.6.3 (2020-02-29)
@@ -79,4 +82,8 @@ Employees = data.frame(Name=c("Cristian R","Adriana R","Pedro R"),
                        Designation=c("Operator","Manager","Operator")
 )
 print("Details of the employees:")                      
+<<<<<<< HEAD
 print(Employees)
+=======
+print(Employees)
+>>>>>>> c649938403ef37e25c03acd5d28caf7c3216f924
